@@ -691,6 +691,10 @@ body {
 
 .form-modal-inputs {
   width: 100%;
+  margin-bottom: 8px;
+}
+
+.last-input {
   margin-bottom: 16px;
 }
 
